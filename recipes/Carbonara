@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Carbonara Recipe</title>
+  </head>
+
+  <body>
+    <h1>Carbonara</h1>
+    <img src="../img/Carbonara.jpg" alt="Picture of Carbonara">
+    
+    <h4>Description</h4>
+    <p>Simple Carbonara Dish</p>
+    
+    <h4>Ingredients</h4>
+    <h6>No exact Ingredients</h6>
+    <ul>
+        <li>A few whole eggs along with 2 additional egg yolks</li>
+        <li>Pecorino Romano</li>
+        <li>Parmasen</li>
+        <li>Bacon</li>
+        <li>Spaghetti</li>
+        <li>Salt</li>
+        <li>Black Pepper</li>
+    </ul>
+    
+    <h4>Steps</h4>
+    <ol>
+        <li>Boil a pot of water, add salt and boil Spaghetti till cooked</li>
+        <li>In a bowl, whisk together the eggs, cheeses, and black pepper</li>
+        <li>In a skillet, low heat, cook bacon till fat has rendered, on the edge of crispness but not hard</li>
+        <li>Add Spaghetti into the skillet and mix well</li>
+        <li>Turn off the heat and add the egg sauce with some pasta water</li>
+        <li>mix well till the sauce is creamy</li>
+        <li>Add some freshly ground black pepper and some shredded cheese</li>
+        <li>Enjoy!</li>
+    </ol>
+
+  </body>
+</html>
